@@ -195,6 +195,8 @@ restart.visible = false;
 player.addImage(player_image) 
 player.scale = 0.05  
   
+score = 0
+  
 obstacleGroup.destroyEach();
   
 }
